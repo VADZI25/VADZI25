@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VADZI25
 - 👀 I’m interested in ...HTML,CSS AND JAVASCRIPT
-- 🌱 I’m currently learning ...HT,L AND CSS
+- 🌱 I’m currently learning ...HTML, AND CSS
 - 💞️ I’m looking to collaborate on ...BOTH HTML,PHP,JAVA,PYTHON,ETC
 - 📫 How to reach me ...+233 556234178
 
